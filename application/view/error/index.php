@@ -1,0 +1,5 @@
+<div class="container">
+<div class="alert alert-danger">
+  <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+</div>
+</div>

@@ -1,0 +1,22 @@
+#home{
+	background: #333;	
+}
+
+.cleancode_block {
+	background-image: url('../images/saludable.jpg') !important;
+}
+.navmenu li.active a{
+	color: #18d41f !important;
+}
+.navmenu ul li a{
+	color: #000 !important;
+}
+b{
+	color: #18d41f;
+}
+.cleancode_block p.title {
+	color: #000 !important;
+}
+.cleancode_block span {
+	color: #000 !important;
+}
